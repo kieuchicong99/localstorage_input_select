@@ -1,6 +1,6 @@
 {
   "name": "localstorage_input_select",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "input or select from history stored localStorage",
   "main": "./dist/InputSelect.js",
   "license": "MIT",
