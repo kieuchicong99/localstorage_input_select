@@ -4,6 +4,10 @@
   "description": "input or select from history stored localStorage",
   "main": "./dist/InputSelect.js",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kieuchicong99/localstorage_input_select.git"
+  },
   "scripts": {
     "build": "webpack"
   },
